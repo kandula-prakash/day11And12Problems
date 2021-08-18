@@ -1,0 +1,4 @@
+C:\Users\prakash kandula\source\repos\Day11And12Problems\Day11And12Problems\obj\Debug\netcoreapp3.1\Day11And12Problems.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\Day11And12Problems\Day11And12Problems\obj\Debug\netcoreapp3.1\Day11And12Problems.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\Day11And12Problems\Day11And12Problems\obj\Debug\netcoreapp3.1\Day11And12Problems.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\Day11And12Problems\Day11And12Problems\obj\Debug\netcoreapp3.1\Day11And12Problems.csproj.CoreCompileInputs.cache
